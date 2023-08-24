@@ -1,5 +1,39 @@
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
+# Key Features  
+
+1. **Redux Implementation**:
+   - Integrated Redux for efficient state management.
+   - Allows for a centralized store, enabling easy access and modification of state across different components.
+
+2. **Firebase Helper Functions**:
+   - Created helpers to wrap Firebase functions.
+   - Simplifies the integration with Firebase and enhances code reusability.
+
+3. **API Fetch Helper Functions**:
+   - Includes a separate helper file for common HTTP methods like GET, POST, DELETE.
+   - Streamlines communication with back-end servers and minimizes repetitive code.
+
+4. **Folder Structure & Organization**:
+   - Clearly defined folder structure to make the codebase easy to navigate.
+   - Images, colors, and other assets are organized within a dedicated "assets" folder.
+   - Following a set structure improves maintainability and collaboration among team members.
+
+5. **Guidelines for New Developers**:
+   - Included detailed instructions and comments to guide new developers through the codebase.
+   - Emphasizes best practices and coding standards for writing clean and consistent code.
+
+6. **Code Reusability and Modularization**:
+   - Leveraged reusable components and modules.
+   - Enables faster development and easier debugging.
+
+7. **Responsiveness and Cross-platform Compatibility**:
+   - Ensured the app's responsiveness across various screen sizes and devices.
+   - Maintained compatibility with both Android and iOS platforms.
+
+
+
+
 # Getting Started
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
